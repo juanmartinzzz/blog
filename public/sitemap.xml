@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/personal-2/</loc>
+    <lastmod>2019-02-02T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/personal-1/</loc>
+    <lastmod>2019-02-01T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/leccion-3/</loc>
+    <lastmod>2019-01-03T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/leccion-2/</loc>
+    <lastmod>2019-01-02T03:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/leccion-1/</loc>
+    <lastmod>2019-01-01T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/</loc>
+    <lastmod>2019-02-02T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/tags/lecci%C3%B3n/</loc>
+    <lastmod>2019-01-03T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/tags/personal/</loc>
+    <lastmod>2019-02-02T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/posts/</loc>
+    <lastmod>2019-02-02T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog-artico.firebaseapp.com/tags/</loc>
+    <lastmod>2019-01-03T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
