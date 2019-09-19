@@ -1,5 +1,5 @@
 +++
-title = "¿Quién soy?"
+title = "¿Quiénes somos?"
 date = "2014-04-09"
 +++
 
