@@ -1,7 +1,7 @@
-+++
-title = "¿Quiénes somos?"
-date = "2014-04-09"
-+++
+---
+title: "¿Quiénes somos?"
+date: 2019-04-09
+---
 
 Un Desarrollador de Software graduado de la UIS, con 7 años de experiencia, actualmente en tránsito hacia Canadá junto con mi esposa Anny.
 
