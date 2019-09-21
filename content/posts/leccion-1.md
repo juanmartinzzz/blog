@@ -7,9 +7,6 @@ tags:
   - "Lección"
 ---
 
-<img src="https://i.imgur.com/5eGyyiE.jpg">
-
-&nbsp;
 ## Al grano
 
 - Emocionarse y hacer planes de vida en un nuevo país es motivador, pero no es realista. 
@@ -18,8 +15,9 @@ tags:
 
 - El país de destino impone el momento y las condiciones con las que uno, quizá, podrá migrar.
 
-&nbsp;
 ## La carreta
+
+<div medium><img src="https://i.imgur.com/5eGyyiE.jpg"></div>
 
 Es importante aclarar que con migrar me refiero a <strong> adquirir la ciudadanía de otro país</strong>, y no solo a visitarlo unos meses, o a estudiar y vivir en él unos años.
 
@@ -47,9 +45,9 @@ En cambio, migrar es una puja de duración indeterminada, metas y reglas cambian
 
 ### Planear puede motivar, o decepcionar
 
-Cuando empecé a soñar despierto con migrar a Canadá (o más bien: a cálcular en Google Sheets y simular en mi mente cómo sería mi vida en el primer mundo, con una economía en dólares y sumergido en una sociedad organizada) asumí que bastaba con tener ahorros para costear tiquetes, arriendo, comida, vehículo y gastos de los primeros meses, hasta encontrar trabajo y afianzarme del todo en mi nuevo país.
+<div medium><img src="https://i.imgur.com/zDYEG5E.png"></div>
 
-<img class="medium" src="https://i.imgur.com/zDYEG5E.png">
+Cuando empecé a soñar despierto con migrar a Canadá (o más bien: a cálcular en Google Sheets y simular en mi mente cómo sería mi vida en el primer mundo, con una economía en dólares y sumergido en una sociedad organizada) asumí que bastaba con tener ahorros para costear tiquetes, arriendo, comida, vehículo y gastos de los primeros meses, hasta encontrar trabajo y afianzarme del todo en mi nuevo país.
 
 _Además de tener la plata, seguro hay que llenar formularios y cumplir con requisitos_, pensaba. _Tendrá uno que tener limpios los antecedentes judiciales. Pagar sus impuestos. Por ahí leí que no se pueden tener multas de tránsito. Fácil_ 
 
@@ -65,7 +63,6 @@ En las semanas, meses y años siguientes aprendería la lección 1: migrar no es
 
 Mi camino hacia establecerme en Canadá empezó con esta decepción, y vendían muchas otras. Afortunadamente parece que tendrá final feliz.
 
-&nbsp;
 ## Conclusión
 
 Paises como Canadá o Australia <strong>se reservan el derecho de admisión</strong> y tratan de recibir únicamente personas con el perfil que más los beneficia. Si su perfil es buscado por estos países: felicitaciones, puede iniciar el lento camino de la migración. Recuerde: las reglas pueden cambiar en cualquier momento; no hay nada garantizado.

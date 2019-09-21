@@ -11,18 +11,17 @@ Hechas las maletas, vendido el carro, con una carta de aceptación de la Univers
 
 Lo que no sabíamos es que los procesos de aceptación de Québec y luego de Visado podrían durar tanto que, finalmente, Anny tendría que aplazar su primer semestre hasta Septiembre de 2019.
 
-Así fue como nuestra estadía temporal en Bucaramanga, cada uno en la respectiva casa de sus padres, se convirtió en varios meses de no estar ni en una orilla del río, ni en la otra.
+<div medium><img src="https://i.imgur.com/ETL06iA.png"></div>
 
-<img class="medium" src="https://i.imgur.com/ETL06iA.png">
+Nuestra estadía temporal en Bucaramanga, cada uno en la respectiva casa de sus padres, se convirtió en varios meses de no estar ni en una orilla del río, ni en la otra.
 
-&nbsp;
 ## Abandonar cosas fue liberador
 
 Al igual que Anny, yo trato de tener lo mínimo necesario. Aun así, con el pasar del tiempo y la acumulación de proyectos por terminar, el espacio va llenándose de objetos. 
 
 Pero la mayoría de estas cosas, al revés que el vino, pierde valor con cada año que pasa. 
 
-<video src="https://i.imgur.com/dRxgGjn.mp4" style="width: 100%" autoplay loop>
+<div medium><video src="https://i.imgur.com/dRxgGjn.mp4" autoplay loop></div>
 
 Cuando reduje mi vida a una maleta me enfrenté a la colección de cables, baterías, circuitos, sensores, recortes de madera, partes de plástico, kits de costura, herramientas, tintillas pegantes, telas, cuerdas, varillas de carpas y demás, que decidí guardar durante los últimos años.
 
@@ -32,7 +31,6 @@ Y sospecho que Anny vivió algo parecido con las mil y una cremas, tarros, cajit
 
 Sin llevar el minimalismo al extremo, creo en este capítulo de nuestra vida reforzamos la convicción de que las cosas se acumulan todo el tiempo y, si no libramos contra ellas una guerra contínua, ganan batallas, ocupan el hogar, conquistan la cotidianidad sin que uno lo note, hasta que es demasiado tarde.
 
-&nbsp;
 ## Quedarme sin casa fue menos disfrutable
 
 Al escribir esto, llevamos con Anny más de 3 meses en Bucaramanga, cada uno en casa de sus papás.
@@ -43,10 +41,9 @@ Tampoco coordinamos con nuestros padres; caímos en sus casas como meteoritos y 
 
 Nos ha sorprendido lo difícil que ha sido vivir en este limbo. Pareciera que, tras deshacernos sin problemas de lo material, nuestros cerebros extrañaron las rutinas, y la espectativa abstracta de tener un lugar donde somos nosotros quienes imponemos las reglas, los ritmos, las maneras.
 
-El día que entregué el apartamento le escribí en un grupo de Whatsapp a algunos amigos _"Así debió sentirse Galadriel después de la destrucción del Anillo, cuando dejó su reino para irse a las tierras de Amán"_. 
+<div medium><img src="https://i.imgur.com/SvmEbCQ.jpg" title="https://www.artstation.com/sarahburnsstudio"></div>
 
-<img class="medium" src="https://i.imgur.com/SvmEbCQ.jpg">
-https://www.artstation.com/sarahburnsstudio
+El día que entregué el apartamento le escribí en un grupo de Whatsapp a algunos amigos _"Así debió sentirse Galadriel después de la destrucción del Anillo, cuando dejó su reino para irse a las tierras de Amán"_.
 
 Ya sé: qué ñoñada.
 
