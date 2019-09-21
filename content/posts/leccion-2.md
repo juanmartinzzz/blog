@@ -7,27 +7,26 @@ tags:
   - "Lección"
 ---
 
-<video src="https://i.imgur.com/6pF5cSj.mp4" style="width: 100%" autoplay loop>
-
-&nbsp;
 ## Al grano
 
 - Los programas migratorios usan sistemas de puntos para elegir a las personas o familias que más les conviene recibir.
 
 - Los esfuerzos para migrar duran tanto tiempo que varias leyes pueden cambiar los requerimientos y sistemas de puntos que los afectan.
  
-&nbsp;
 ## La carreta
+
+<div medium><video src="https://i.imgur.com/6pF5cSj.mp4" autoplay loop></div>
 
 A pesar de que van solo 2 años desde que tomamos la decisión de migrar a Canadá, ha habido cambios significativos en los procesos migratorios de este país. Estos son 5 ejemplos de cambios que nos afectaron en lo que va de nuestro camino.
 
-<img class="medium" src="https://i.imgur.com/VJaXlQ8.jpg">
-
 ### 1. Aplicación en papel 📃 -> Mon Porjet Québec 🖥
+
+<div medium><img src="https://i.imgur.com/VJaXlQ8.jpg"></div>
 
 Desde Diciembre de 2015 el gobierno provincial de Québec dejó de hacer procesos migratorios en papel, y estrenó una plataforma online llamada <strong>Mon Projet Québec</strong> o MPQ, para recibir la información de los candidatos.
 
 Como a finales de 2016 todo indicaba que la migración por Québec era la que más nos favorecía a Anny y a mí, este cambio nos afectó puesto que tuvimos que usar la plataforma MPQ para crear nuestro perfil y adjuntar documentos.
+
 ### 2. Menos puntos por Ingeniería de Sistemas
 
 En 2016 la carrera de Ingeniería de Sistemas recibía <strong>16 puntos</strong> en el programa de Québec que nos permitía adelantar nuestro proceso desde Colombia.
@@ -58,7 +57,6 @@ Es decir: 18.000 personas y familias que, después de hacer esfuerzos particular
 
 Adicionalmente este cambio la provincia podría aumentar el requerimiento del idioma Francés para nuevos aspirantes.
 
-&nbsp;
 ## Conclusión
 
 Si la primera lección migratoria es 'uno no pone las condiciones', la lección 2 es 'las condiciones cambian más rápido que el clima'.

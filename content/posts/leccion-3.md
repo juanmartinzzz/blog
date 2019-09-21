@@ -7,17 +7,15 @@ tags:
   - "Lección"
 ---
 
-<img src="https://i.imgur.com/4j5BXms.jpg">
-
-&nbsp;
 ## Al grano
 
 - Aunque es injusto la falta de dinero dificulta mucho un proceso migratorio.
 
 - El exceso de dinero tampoco asegura el éxito.
 
-&nbsp;
 ## La carreta
+
+<div medium><img src="https://i.imgur.com/4j5BXms.jpg"></div>
 
 Las finanzas son el área donde los sueños de conseguir una mejor vida a punta de ganas, valentía y esfuerzo se vienen abajo. ¿Por qué? Porque si el dinero escasea, migrar será mucho más difícil.
 
@@ -29,7 +27,7 @@ Si está leyendo esto quizá piense:
 
 _Pero Juan, el que tiene bastante plata puede irse a estudiar. Esa es una opción super cara que no todos pueden solventar._
 
-<img class="medium" src="https://i.imgur.com/YALWzLq.jpg">
+<div medium><img src="https://i.imgur.com/YALWzLq.jpg"></div>
 
 Estoy de acuerdo: la realidad es que quien tiene dinero en su país natal tiene más posibildad de migrar que otros, que a su vez pueden necesitar más un cambio de vida, mejores oportunidades para sus hijos, mejor servicio de salud para sí mismos o sus padres, etc.
 
@@ -51,7 +49,7 @@ El que aterriza en Canadá para estudiar le toma ventaja a quienes hacen el proc
 
 Si todavía está leyendo puede que tenga una pregunta:
 
-<img class="medium" src="https://i.imgur.com/aKjrYe3.jpg">
+<div medium><img src="https://i.imgur.com/aKjrYe3.jpg"></div>
 
 _Entonces como yo decía: el que tiene plata para estudiar en Canadá tiene todo solucionado. ¿O no?_
 
@@ -79,7 +77,6 @@ Alguien con dinero, con una profesión que sí es buscada por Canadá. Podría d
 
 Pero antes de ser aceptada en una universidad de alto nivel en Canadá (muchas de ellas están entre las mejores de todo el mundo), esta persona deberá certificar un nivel de Inglés excepcional, en la variante académica del IELTS u otra prueba. Esto requiere, o ya tener conocimiento muy profundo del idioma, o estudiar mucho tiempo para obtener este certificado. 
 
-&nbsp;
 ## Conclusión
 
 Aunque están en una mejor posición que otros, quienes cuentan con los medios para estudiar tambíen deben invertir tiempo y energía en su proceso de migración, y hacer sacrificios. 

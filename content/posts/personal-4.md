@@ -5,9 +5,9 @@ tags:
   - "Personal"
 ---
 
-Un dolar canadiense es igual a mil pesos colombianos. Un dolar canadiense no vale mil pesos colombianos, sino aproximadamente 2 mil 500, pero es equivalente a mil pesos cuando se toman en cuenta factores como el salario mínimo, el costo de un bus, o de una coca-cola. Un estudio más formal de este método de equiparación de monedas existe, y se llama Big Mac Index.
+<div medium><img src="https://i.imgur.com/iNEaiZj.png"></div>
 
-<img src="https://i.imgur.com/iNEaiZj.png">
+De cierta forma, un dolar canadiense es igual a mil pesos colombianos. No: un dolar canadiense no **vale** mil pesos colombianos, sino aproximadamente 2 mil 500, pero es equivalente a mil pesos cuando se toman en cuenta factores como el salario mínimo, el costo de un bus, o de una coca-cola. Un estudio más formal de este método de equiparación de monedas existe, y se llama Big Mac Index.
 
 Para nosotros, esta ley se cumplió al pie de la letra. Duarnte los últimos años en Colombia y los primeros en Canadá, mientras Anny estudia, mi salario ha sido nuestra mayor fuente de ingresos. Y mi salario después de impuestos pasó de ser una cantidad de millones de pesos colombianos a ser casi exactamente la misma cantidad de miles de dólares canadienses.
 
@@ -17,9 +17,8 @@ Pero no compra lo mismo.
 
 En canadá, por ejemplo, notamos que podíamos hacer un mercado con muy buena selección de frutas y carnes por 150. En Colombia nos habría costado fácilmente 400. Dejo las unidades de lado porque estoy usando el sistema de comparación que no depende de la tasa de cambio entre las monedas.
 
-<img src="https://i.imgur.com/3U3eG5D.png">
+<div medium><img src="https://i.imgur.com/3U3eG5D.png"></div>
 
-&nbsp;
 ## La diferencia es palpable
 
 Una opción que existe en Canadá es comprar cosas de segunda mano, en muy buen estado, y a muy buen precio. Lo hacemos con frecuencia y nos asombra el precio total pagado por cantidades grandes de artículos. Pero en esto no tenemos cómo comparar; en un país existe la posibilidad, en el otro no.

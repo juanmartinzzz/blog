@@ -7,9 +7,6 @@ tags:
   - "Lección"
 ---
 
-<img src="https://i.imgur.com/Jeddhyv.png">
-
-&nbsp;
 ## Al grano
 
 - Mi experiencia es particular; esta lección no es general.
@@ -25,8 +22,9 @@ tags:
   - 3 Ofertas recibidas.
 
 
-&nbsp;
 ## La carreta
+
+<div medium><img src="https://i.imgur.com/Jeddhyv.png"></div>
 
 Conseguir trabajo en la industria tecnoloógica en Colombia y Canadá es diferente. Además en Canadá me presenté a algunos puestos en empresas grandes, donde los procesos tuvieron sorpresas.
 
@@ -50,7 +48,7 @@ Al contrario: muchos reclutadores la usan para diferenciar un candidato de otro 
 
 Entre el 10 y 14 de Junio pasé mi CV a 17 posiciones en Montréal, pensando que el proceso de contratación sería rápido. 5 semanas después todavía no tenía todavía ninguna oferta, pero sí había tenido que viajar a Montréal y de regreso 2 veces.
 
-<img class="medium" src="https://i.imgur.com/SktoPEC.png">
+<div medium><img src="https://i.imgur.com/SktoPEC.png"></div>
 
 Si hubiera sabido esto de antemano habría tomado otras decisiones. El destgaste cobró un precio alto, y me llevó a presentar mi renuncia a mi trabajo anterior, que hacía a distancia y como contratista, para dedicarme totalmente a buscar empleo y vivienda en Montréal. Fue muy bueno tener este tiempo para dedicar al cambio de ciudad, pero el golpe financiero fue considerable.
 
@@ -60,7 +58,6 @@ Otra suposición que hice al presentarme a trabajos en Montréal fue que las ent
 
 Por el contrario: los procesos requirieron entrevistas presenciales. En algunos casos las pruebas o retos técnicos que me enviaron pude resolverlos en casa y enviarlos por correo, pero no en todos; una empresa reemplazó la prueba técnica por una prueba rápida que hice después de una entrevista, en sus oficinas. Otra empresa me envió una prueba a resolver durante varios días y que debía enviar por correo, pero la prueba especificaba que estaría seguida de una sesión presencial para discutir mi solución.
 
-&nbsp;
 ## Conclusión
 
 Elaborar una excelente Cover Letter debe hacerse antes de iniciar un proceso de búsqueda de trabajo en Canadá. Además, las empresas parecen preferir el contacto directo con los candidatos en lugar de preferir las entrevistas por teleconferencia.

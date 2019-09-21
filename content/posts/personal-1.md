@@ -17,11 +17,10 @@ La realidad es menos retórica: el cambio de ciudad coincidió con mi entrada al
 
 Gracias a esto, sé cómo es cambiar de ciudad con pocas cosas, y a un mes de aterrizar en Toronto con una maleta llena ropa y un laptop, estoy convencido de saber qué hacer.
 
+<div medium><img src="https://i.imgur.com/7JBEweM.jpg"></div>
+
 La novedad esta vez fue lo que pasó antes de tener lista esa maleta.
 
-<img class="medium" src="https://i.imgur.com/7JBEweM.jpg">
-
-&nbsp;
 ## Deshacer una vida
 
 Más fácil de lo que parece.
@@ -30,9 +29,9 @@ Al menos ante la expectativa optimista de iniciar una etapa nueva en el primer m
 
 A finales de 2018 no vivía en un cuarto sino en un apartamento, con Anny, y además de libros teníamos cama, nevera, lavadora y secadora, mesas sillas y sofás, bombillos inteligentes, un carro en el parqueadero, más toallas de las que necesitábamos, ollas vasos y vajillas.
 
-Y cuatro. Millones. De chucherías.
+<div medium><img src="https://i.imgur.com/GOJfr4B.jpg"></div>
 
-<img class="medium" src="https://i.imgur.com/GOJfr4B.jpg">
+Y cuatro. Millones. De chucherías.
 
 Reducir esto a una maleta para cada uno fue agotador pero simple, y quizá terapéutico.
 
@@ -48,7 +47,6 @@ Nos ayudó lo extremo de la situación. Si fuéramos a vivir en otra ciudad de C
 
 El trabajo extenuante de desarmar un apartamento se hizo con ayuda de familia y amigos. Cajas se llenaron y se enviaron a otras ciudades, muebles y electrodomésticos se metieron en un camión de mudanza hacia diferentes lugares según quién los había comprado (también todos amigos y familia), y dos días después vendimos el carro en el mismo consesionario donde lo compramos.
 
-&nbsp;
 ## Deshacer una vida
 
 Más difícil de lo que parece.
@@ -61,10 +59,9 @@ No solo eso, sino que además un trabajo que conseguí poco después era de tiem
 
 No solo eso, sino que además Boyacá y Cundinamarca han sido para mí desde niño un cuasiparaíso mitológico; siempre verde, incomprensible para un santandereano.
 
-Los meses que pasé en ese pueblo de 28 mil personas son los únicos que he vivido fuera de una ciudad grande, y me dejaron la sospecha de que debo volver a un lugar así. Pero fueron tan pocos que se sienten como un sueño; me cuesta creer que no fue apenas un fin de semana donde todo salió perfecto.
+<div medium><img src="https://i.imgur.com/mdwnGKl.jpg" title="https://www.flickr.com/photos/abriceno"></div>
 
-<img class="medium" src="https://i.imgur.com/mdwnGKl.jpg">
-https://www.flickr.com/photos/abriceno
+Los meses que pasé en ese pueblo de 28 mil personas son los únicos que he vivido fuera de una ciudad grande, y me dejaron la sospecha de que debo volver a un lugar así. Pero fueron tan pocos que se sienten como un sueño; me cuesta creer que no fue apenas un fin de semana donde todo salió perfecto.
 
 Pero basta de drama.
 
